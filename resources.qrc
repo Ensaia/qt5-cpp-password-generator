@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/images/copy.png</file>
+        <file>resources/images/password-generator.png</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>resources/icons/password-generator.ico</file>
+    </qresource>
+</RCC>
